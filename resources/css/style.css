@@ -1,0 +1,12 @@
+h1 {
+  text-align: center;
+  color:white;
+}
+.link {
+  color:aquamarine;
+  text-decoration: underline;
+}
+body {
+  background-color: black;
+  text-align: center;
+}
